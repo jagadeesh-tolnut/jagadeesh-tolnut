@@ -2,6 +2,8 @@
 
 **`Software Engineer (Developer/Machine Learning/Competitive Programmer)`**
 
+I'm an open source enthusiast, practicing Python for the past 3yrs. I adore machine learning and am good at data analysis and data visualization. I'm a fast learner and good at team work. I've had plenty of leadership experience.
+
 ### Languages 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -40,7 +42,19 @@
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+
+<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+<img align="left" alt="Inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+
+
 
 
 
@@ -50,6 +64,6 @@
 
 ![Jaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeesh-tolnut&show_icons=true&theme=gruvbox)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=jagadeesh-tolnut&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=jagadeesh-tolnut&theme=gruvbox&border_radius=4.5)
 
 #
