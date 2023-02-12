@@ -5,6 +5,9 @@
 I'm an open source enthusiast, practicing Python for the past 3yrs. I am currently practising Backend development with Django. I adore machine learning and am good at data analysis and data visualization. I'm a fast learner and good at team work. I had plenty of leadership experience.
 
 #
+
+<br>
+
 ## Languages 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -68,7 +71,10 @@ I'm an open source enthusiast, practicing Python for the past 3yrs. I am current
 
 ![Jaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeesh-tolnut&show_icons=true&theme=gruvbox)
 
+<br>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jagadeesh-tolnut&theme=gruvbox&border_radius=4.5)
 
 </center>
+
 #
